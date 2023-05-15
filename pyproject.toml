@@ -7,7 +7,7 @@ version = "0.0.1"
 authors = [
     {name="Alexander Fedotov", email="alex.fedotov@aol.com"},
 ]
-description = "Logical verification of probabilistic 'intuitions'."
+description = "Logical verification of probabilistic/language model 'intuitions'."
 readme = "README.md"
 requires-python = ">=3.10"
 classifiers=[
