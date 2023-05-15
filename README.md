@@ -1,2 +1,2 @@
-# calculemus
-Logical verification of probabilistic 'intuitions'.
+# Calculemus
+"Logical verification of probabilistic/language model 'intuitions'."
